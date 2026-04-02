@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.log
+*.tmp
+target/
+build/
+.idea/
+.vscode/
