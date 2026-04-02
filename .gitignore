@@ -1,0 +1,6 @@
+# Estä väliaikaistiedostojen tallennus
+*.log
+*.tmp
+.DS_Store
+node_modules/
+__pycache__/
